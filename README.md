@@ -1,6 +1,8 @@
 # 8pieceslidingpuzzle-paa-g
 Q2
 
+Muhammad Andi Akbar Ramadhan - 5025201264
+
 ## Use these input:
 Initial Matrix / Board Config = 0 2 3 1 5 8 4 6 7
 
